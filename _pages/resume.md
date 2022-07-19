@@ -5,7 +5,7 @@ short_title: Resume/CV
 description: >
   Under construction.
 
-{% comment %} 
+{%-
 description: >
   Resume/CV for Jessica Reel: Lifelong hobbyist programmer with a master's degree in organic chemistry and passion for teaching seeks a position in software development,
   ideally in the field of educational technology or LMS curriculum development.
@@ -172,5 +172,4 @@ Led a team of fellow students in developing a syllabus- and course-management ap
 [wiki-5S]: https://en.wikipedia.org/wiki/5S_(methodology)
 [wiki-L6s]: https://en.wikipedia.org/wiki/Lean_Six_Sigma
 
-
-{% endcomment %}
+-%}
