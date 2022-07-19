@@ -4,7 +4,9 @@ title: Resume/CV for Sebastián Duque
 short_title: Resume/CV
 description: >
   Under construction.
-
+# permalink: /resume/
+# custom_css: resume
+---
 
 # description: >
 #   Resume/CV for Jessica Reel: Lifelong hobbyist programmer with a master's degree in organic chemistry and passion for teaching seeks a position in software development,
