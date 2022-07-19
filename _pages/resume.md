@@ -4,8 +4,8 @@ title: Resume/CV for Sebastián Duque
 short_title: Resume/CV
 description: >
   Under construction.
-# permalink: /resume/
-# custom_css: resume
+permalink: /resume/
+custom_css: resume
 ---
 
 # description: >
