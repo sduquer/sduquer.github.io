@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Resume/CV for Jessica Reel
+title: Resume/CV for Sebastián Duque
 short_title: Resume/CV
 description: >
-  Resume/CV for Jessica Reel: Lifelong hobbyist programmer with a master's degree in organic chemistry and passion for teaching seeks a position in software development,
-  ideally in the field of educational technology or LMS curriculum development.
+  This resumé is under construction.
 permalink: /resume/
 custom_css: resume
 ---
@@ -12,6 +11,7 @@ custom_css: resume
 - GitHub: <a href="{{ site.data.social-media.github.href }}{{ site.data.social-media.github.id }}">{{ site.data.social-media.github.href }}{{ site.data.social-media.github.id }}</a>
 - LinkedIn: <a href="{{ site.data.social-media.linkedin.href }}{{ site.data.social-media.linkedin.id }}">{{ site.data.social-media.linkedin.href }}{{ site.data.social-media.linkedin.id }}</a>
 
+<!---
 ## Objective
 I'm seeking a career change to **software development** via an **entry-level or associate**-level position utilizing my demonstrated logical, analytical, and communication skills developed through over 15 years of experience in the fields of science, technology, and education.
 
@@ -169,3 +169,4 @@ Led a team of fellow students in developing a syllabus- and course-management ap
 [wiki-L6s]: https://en.wikipedia.org/wiki/Lean_Six_Sigma
 
 
+--->`
