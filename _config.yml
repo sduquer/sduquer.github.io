@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 locale: "en"
 lang:  "en-us"
-title: "sduque"  # title of your website
+title: "sduquer"  # title of your website
 name:  "Sebastián Duque"  # your name or organization name
 email: "sebastian.duque@titulados.usm.cl"
 webaddress: "http://sduquer.github.io"  # to avoid messing with url or baseurl
