@@ -1,5 +1,5 @@
 email:
-  id: 'jessica.reel@outlook.com'
+  id: 'sebastian.duque@titulados.usm.cl'
   href: 'mailto:'
   title: 'Email'
   fa-icon: 'fa-envelope-square'
@@ -23,13 +23,13 @@ googleplus:
   fa-icon: 'fa-google-plus-square'
 
 github:
-  id: 'jreel'
+  id: 'sduquer'
   href: 'https://github.com/'
   title: 'GitHub'
   fa-icon: 'fa-github-square'
 
 linkedin:
-  id: 'thereeljess'
+  id: 'sebastianduquer'
   href: 'https://www.linkedin.com/in/'
   title: 'LinkedIn'
   fa-icon: 'fa-linkedin-square'
@@ -53,7 +53,7 @@ youtube:
   fa-icon: 'fa-youtube'
 
 rss:
-  id: '/feed.xml'
+  id:
   href:
   title: 'RSS'
   fa-icon: 'fa-rss-square'
