@@ -47,8 +47,8 @@ url:  # pretty sure this is auto-set during build, so I'd leave it alone if I we
 # # # # Social, API, etc. settings # # # #
 
 # Disqus settings for comments
-disqus:
-   shortname:   # see https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+#disqus:
+#   shortname:   # see https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
 # Google analytics
 google_analytics: # add your UA id here
