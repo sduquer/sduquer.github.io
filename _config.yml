@@ -19,7 +19,6 @@ title: "sduquer"  # title of your website
 name:  "Sebastián Duque"  # your name or organization name
 email: "sebastian.duque@titulados.usm.cl"
 webaddress: "http://sduquer.github.io"  # to avoid messing with url or baseurl
-
 tagline: "sduquer.github.io"
 description: > # this means to ignore newlines until "baseurl:"
   The personal website of Sebastián Duque
