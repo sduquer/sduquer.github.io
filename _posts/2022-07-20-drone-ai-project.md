@@ -7,6 +7,6 @@ This on-going project can be splitted into several subprojects. It's the first v
 <!--more-->
 
 ##  Let's see it in action!
-{% include youtubePlayer.html id='iUnWrxdl2SY' %}
+{% include youtube.html id='iUnWrxdl2SY' %}
 
 
