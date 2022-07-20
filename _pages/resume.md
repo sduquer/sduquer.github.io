@@ -8,7 +8,7 @@ permalink: /resume/
 custom_css: resume
 ---
 <!--- Email:  {% include email.html %}--->
-- Email:  <a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}">{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}</a>
+- Email:  <a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}">{{ site.data.social-media.email.id }}</a>
 - GitHub: <a href="{{ site.data.social-media.github.href }}{{ site.data.social-media.github.id }}">{{ site.data.social-media.github.href }}{{ site.data.social-media.github.id }}</a>
 - LinkedIn: <a href="{{ site.data.social-media.linkedin.href }}{{ site.data.social-media.linkedin.id }}">{{ site.data.social-media.linkedin.href }}{{ site.data.social-media.linkedin.id }}</a>
 
