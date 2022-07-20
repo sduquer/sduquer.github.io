@@ -148,6 +148,7 @@ exclude:
   - tmp
   - /docs
   - /test
+  - original_posts
 keep_files:
   - .git
   - .svn
