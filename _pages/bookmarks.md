@@ -12,7 +12,7 @@ This is where I collect my personal list of useful websites, articles, tutorials
 All about Linux: tutorials, how to, driver solutions, etc.
 
 [Ubuntu handbook](https://ubuntuhandbook.org):
-News, Tutorials, Howtos for Ubuntu Linux
+News, Tutorials, Howtos for Ubuntu Linux.
 
 
 ## Jekyll Tips and Reference
