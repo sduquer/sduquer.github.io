@@ -4,8 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
-You can view many of my coding projects on [my GitHib page](https://github.com/jreel?tab=repositories).
+You can view many of my coding projects on [my GitHib page](https://github.com/sduquer?tab=repositories).
 
+<!--
 ### js-chem: JavaScript for Chemistry
 A collection of JavaScript functions and constructs to aid in chemical formatting and online chemistry exercises.
   Currently includes a script for formatting chemical formulas and a script for constructing a periodic table.
@@ -37,5 +38,5 @@ A '[roguelike](https://en.wikipedia.org/wiki/Roguelike)' game.
 - Repo: [https://github.com/jreel/js-roguelike](https://github.com/jreel/js-roguelike)
 - Demo: [http://jreel.github.io/js-roguelike/](http://jreel.github.io/js-roguelike/)
 
-
+-->
 ■
