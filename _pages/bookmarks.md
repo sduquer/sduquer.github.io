@@ -2,10 +2,9 @@
 layout: page
 title: Bookmarks
 permalink: /bookmarks/
-description: This is where I collect my personal list of useful websites, articles, tutorials, and other references. Right now it leans heavily toward Jekyll and web development.
+description: This is where I collect my personal list of useful websites, articles, tutorials, and other references. 
 ---
-This is where I collect my personal list of useful websites, articles, tutorials, and other references. Right now it leans heavily toward Jekyll and web development.
-
+This is where I collect my personal list of useful websites, articles, tutorials, and other references.
 
 ## Linux / Ubuntu
 [Linux hint](https://linuxhint.com/):
