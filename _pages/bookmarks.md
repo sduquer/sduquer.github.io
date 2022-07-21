@@ -6,6 +6,15 @@ description: This is where I collect my personal list of useful websites, articl
 ---
 This is where I collect my personal list of useful websites, articles, tutorials, and other references. Right now it leans heavily toward Jekyll and web development.
 
+
+## Linux / Ubuntu
+[Linux hint](https://linuxhint.com/):
+All about Linux: tutorials, how to, driver solutions, etc.
+
+[Ubuntu handbook](https://ubuntuhandbook.org):
+News, Tutorials, Howtos for Ubuntu Linux
+
+
 ## Jekyll Tips and Reference
 
 [Jekyll Cheat Sheet](https://learn.cloudcannon.com/jekyll-cheat-sheet/):
