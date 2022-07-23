@@ -49,7 +49,8 @@ url:  # pretty sure this is auto-set during build, so I'd leave it alone if I we
 
 # Disqus settings for comments
 disqus:
-   shortname: sduquer # see https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+   shortname: sduquer
+   # see https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
 # Google analytics
 google_analytics: # add your UA id here
