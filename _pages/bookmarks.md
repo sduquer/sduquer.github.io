@@ -13,21 +13,10 @@ All about Linux: tutorials, how to, driver solutions, etc.
 [Ubuntu handbook](https://ubuntuhandbook.org):
 News, Tutorials, Howtos for Ubuntu Linux.
 
-## Git Tips and Reference
+## Jekyll Tips,  Git Tips, and Reference
+[All about Jekyll, Git, and many tips](https://jreel.github.io/bookmarks/)
 
-[Git in six hundred words](https://maryrosecook.com/blog/post/git-in-six-hundred-words): A pretty good introduction to git commands and workflow.
-
-[Git notes](https://github.com/stylekit/research/wiki/Git-notes): GitHub wiki with notes on Git commands and usage.
-
-[Git Tips](https://github.com/git-tips/tips)
-
-[Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
-
-[Using GitHub to Maintain a To-Do List](http://lifehacker.com/why-a-github-gist-is-my-favorite-to-do-list-1493063613): With Checkboxes!
-
-
-
-
+<!-->
 ## Jekyll Tips and Reference
 
 [Jekyll Cheat Sheet](https://learn.cloudcannon.com/jekyll-cheat-sheet/):
@@ -107,3 +96,5 @@ How to clone a GitHub project into WebStorm, how to use Apache Velocity to set u
 [Permalinks](http://mattgemmell.com/permalinks/): Reasons for not having the standard '/year/month/day/' as part of your blog permalinks.
 
 [SEO Tips](http://bretthard.in/post/seo-layout-and-site-tips)
+
+-->
