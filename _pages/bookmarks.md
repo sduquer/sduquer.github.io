@@ -14,9 +14,9 @@ All about Linux: tutorials, how to, driver solutions, etc.
 News, Tutorials, Howtos for Ubuntu Linux.
 
 ## Jekyll Tips,  Git Tips, and Reference
-[All about Jekyll, Git, and many tips](https://jreel.github.io/bookmarks/)
+[All about Jekyll, Git, and many tips](https://jreel.github.io/bookmarks/): good sites and usefull bookmarks.
 
-<!-->
+<!--
 ## Jekyll Tips and Reference
 
 [Jekyll Cheat Sheet](https://learn.cloudcannon.com/jekyll-cheat-sheet/):
