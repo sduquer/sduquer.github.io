@@ -13,6 +13,10 @@ All about Linux: tutorials, how to, driver solutions, etc.
 [Ubuntu handbook](https://ubuntuhandbook.org):
 News, Tutorials, Howtos for Ubuntu Linux.
 
+## Github
+[Troubleshoot](https://www.javaprogramto.com/2021/11/error-failed-to-push-some-refs-to.html):
+Failed to push some refs to in 5 ways
+
 ## Jekyll Tips,  Git Tips, and Reference
 [All about Jekyll, Git, and many tips](https://jreel.github.io/bookmarks/): good sites and usefull bookmarks.
 
