@@ -11,7 +11,11 @@ This  an on-going project that can be splitted into several subprojects. It's th
 
 
 
+<br /><br />
+The above video shows one of the first flights of the drone.
 
-The above video shows one of the first flights of the drone. The main goal was to build a quadcopter 
+##  Goals of the project
+
+The main goal of this project which I started duting 
 
 
