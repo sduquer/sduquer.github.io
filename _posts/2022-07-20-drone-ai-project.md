@@ -8,6 +8,10 @@ This  an on-going project that can be splitted into several subprojects. It's th
 
 ##  Let's see it in action!
 {% include youtube.html id='iUnWrxdl2SY' %}
-The above video shows one of the fist 
+
+
+
+
+The above video shows one of the first flights of the drone. The main goal was to build a quadcopter 
 
 
