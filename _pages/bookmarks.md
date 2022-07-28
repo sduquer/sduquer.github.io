@@ -13,6 +13,8 @@ All about Linux: tutorials, how to, driver solutions, etc.
 [Ubuntu handbook](https://ubuntuhandbook.org):
 News, Tutorials, Howtos for Ubuntu Linux.
 
+[Ask Ubuntu](https://askubuntu.com/): Ask Ubuntu is a question and answer site for Ubuntu users and developers. I have found solutions to some issues as "Asus sound is not working io Ubuntu 20.04".
+
 ## Github
 [Troubleshoot](https://www.javaprogramto.com/2021/11/error-failed-to-push-some-refs-to.html):
 Failed to push some refs to in 5 ways
