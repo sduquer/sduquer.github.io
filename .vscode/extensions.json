@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "adamvoss.vscode-languagetool-en"
+        "adamvoss.vscode-languagetool-en",
+        "murbani.vscode-abap-remote-fs"
     ]
 }
