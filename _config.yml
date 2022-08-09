@@ -108,6 +108,7 @@ theme: # minima for new installs. leave blank if using custom theme / developing
 lsi:  true  # produces an index for related posts, requires classifier-reborn plugin
 incremental: false
 
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -124,6 +125,7 @@ include:
   - _pages
   - _articles
   - _data
+  - js
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quad-copter drone for AI applications
+title: Quadcopter drone for AI applications
 ---
 This  an on-going project that can be splitted into several little projects and tasks. Through this article i want to explain the main parts of the development in order to show some interesting and useful solutions for various challenges that have arisen during the development to date.
 
@@ -24,5 +24,28 @@ The specific objectives of the project are:
 3. The vehicle design must allow the assembly of different devices and peripherals.
 4. The flight controller must allow a standard communication protocol so that a companion computer can talk with it. The goal is to be able to send it commands in order to guide the vehicle depending on the function it is performing.
 
+## What is a Quadcopter?
+As it is defined by [OscarLiang][]:
+>Quadcopter is an unmanned aerial vehicle (UAV) or drone with four rotors, each with a motor and propeller. A quadcopter can be manually controlled or can be autonomous. It's also called quadrotor helicopter or quadrotor. It belongs to a more general class of aerial vehicles called multicopter or multirotor.
+
+Another good site is [Devopedia][]. Here you can find information about many technology topics.
+
+
+[OscarLiang]: https://oscarliang.com/what-is-quadcopter/#:~:text=A%20quadcopter%20is%20a%20type,as%20surveillance%20and%20aerial%20photography.
+[Devopedia]: https://devopedia.org/quadcopter
+
+ 
+## Hardware
+As a typical quadcopter, mine was built by using the following parts:
+
+* Frame + Power Distribution Board (PDB).
+* Motors.
+* ESC (Electronic Speed Controller).
+* Propeller.
+* Battery.
+* Flight Controller.
+* FPV googles (First Person View).
+* OSD (On Screen Display).
+* Companion Computer.
 
 

@@ -35,10 +35,10 @@ comments: true
     {% assign page_content = page.content | split: site.excerpt_separator | last %}
   {% endif %}
 
+
   <div class="intro excerpt">
     {{ page_excerpt }}
   </div>
-
   <div class="post-content" itemprop="articleBody">
     {{ page_content }}
   </div>
