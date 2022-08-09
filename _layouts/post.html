@@ -40,7 +40,6 @@ comments: true
     {{ page_excerpt }}
   </div>
   <div class="post-content" itemprop="articleBody">
-    <div id="toc"></div>
     {{ page_content }}
   </div>
 
@@ -62,13 +61,6 @@ comments: true
   </div>
 
 </article>
-
-<script src="/js/toc.js"></script>
-<script type="text/javascript">
-  $(document).ready(function() {
-      $('#toc').toc();
-  });
-</script>
 
 {% if page.comments == true and site.disqus.shortname %}
 {% include disqus.html %}

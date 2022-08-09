@@ -151,7 +151,7 @@ exclude:
   - tmp
   - /docs
   - /test
-  - /original_posts
+  - original_posts
 keep_files:
   - .git
   - .svn

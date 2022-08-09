@@ -6,6 +6,9 @@ This  an on-going project that can be splitted into several little projects and 
 
 <!--more-->
 
+
+* Do not remove this line (it will not be displayed)
+{:toc}
 ##  Let's see it in action!
 {% include youtube.html id='iUnWrxdl2SY' %}
 
@@ -36,7 +39,7 @@ Another good site is [Devopedia][]. Here you can find information about many tec
 
  
 ## Hardware
-As a typical quadcopter, mine was built by using the following parts:
+This drone was built by using the following parts:
 
 * Frame + Power Distribution Board (PDB).
 * Motors.
