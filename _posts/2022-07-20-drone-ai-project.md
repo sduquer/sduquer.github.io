@@ -41,14 +41,14 @@ Another good site is [Devopedia][]. Here you can find information about many tec
 ## Hardware
 This drone was built by using the following parts:
 
-* Frame + Power Distribution Board (PDB).
-* Motors.
-* ESC (Electronic Speed Controller).
-* Propeller.
-* Battery.
-* Flight Controller.
-* FPV googles (First Person View).
-* OSD (On Screen Display).
-* Companion Computer.
+1. Frame + Power Distribution Board (PDB).
+2. Motors.
+3. ESC (Electronic Speed Controller).
+4. Propeller.
+5. Battery.
+6. Flight Controller.
+7. FPV googles (First Person View).
+8. OSD (On Screen Display).
+9. Companion Computer.
 
 
