@@ -2,7 +2,7 @@
 layout: post
 title: Quadcopter drone for AI applications
 ---
-This  an on-going project that can be splitted into several little projects and tasks. Through this article i want to explain the main parts of the development in order to show some interesting and useful solutions for various challenges that have arisen during the development to date.
+This  an on-going project that can be splitted into several little projects and tasks. Through this article, i want to explain the main parts of this development, in order to show some interesting and useful solutions for various challenges that have arisen during the development to date.
 
 <!--more-->
 
@@ -31,7 +31,7 @@ The specific objectives of the project are:
 As it is defined by [OscarLiang][]:
 >Quadcopter is an unmanned aerial vehicle (UAV) or drone with four rotors, each with a motor and propeller. A quadcopter can be manually controlled or can be autonomous. It's also called quadrotor helicopter or quadrotor. It belongs to a more general class of aerial vehicles called multicopter or multirotor.
 
-Another good site is [Devopedia][]. Here you can find information about many technology topics.
+Another good site is [Devopedia][]. Here you can find information about several Information Technology Topics.
 
 
 [OscarLiang]: https://oscarliang.com/what-is-quadcopter/#:~:text=A%20quadcopter%20is%20a%20type,as%20surveillance%20and%20aerial%20photography.
@@ -40,8 +40,7 @@ Another good site is [Devopedia][]. Here you can find information about many tec
  
 ## Hardware
 This drone was built by using the following parts:
-
-1. Frame + Power Distribution Board (PDB).
+1. [Frame + Power Distribution Board (PDB).](#frame--power-distribution-board-pdb)
 2. Motors.
 3. ESC (Electronic Speed Controller).
 4. Propeller.
@@ -51,4 +50,4 @@ This drone was built by using the following parts:
 8. OSD (On Screen Display).
 9. Companion Computer.
 
-
+### Frame + Power Distribution Board (PDB)

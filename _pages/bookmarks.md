@@ -24,6 +24,11 @@ News, Tutorials, Howtos for Ubuntu Linux.
 [Troubleshoot](https://www.javaprogramto.com/2021/11/error-failed-to-push-some-refs-to.html):
 Failed to push some refs to in 5 ways
 
+## SAP/ABAP
+[Blogs.SAP](https://blogs.sap.com/): All about SAP DEV: SAP Business Technology Platform, SAP S/4HANA, SAP S/4HANA Cloud,ABAP Development, SAP Analytics Cloud, SAP BTP, Cloud Foundry environment, SAP HANA
+
+[Example](https://blogs.sap.com/2012/07/16/installing-abap-in-eclipse/): installing ABAP in Eclipse.
+
 ## Jekyll Tips,  Git Tips, and Reference
 [All about Jekyll, Git, and many tips](https://jreel.github.io/bookmarks/): good sites and usefull bookmarks.
 

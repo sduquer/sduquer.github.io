@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "adamvoss.vscode-languagetool-en",
-        "murbani.vscode-abap-remote-fs"
+        "murbani.vscode-abap-remote-fs",
+        "SAPSE.sap-ux-application-modeler-extension"
     ]
 }
