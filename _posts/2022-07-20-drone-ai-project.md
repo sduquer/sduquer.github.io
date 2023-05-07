@@ -13,7 +13,6 @@ This  an on-going project that can be splitted into several little projects and 
 {% include youtube.html id='iUnWrxdl2SY' %}
 
 
-
 <br />
 The above video shows one of the first flights of the drone.
 
