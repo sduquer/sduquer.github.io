@@ -12,13 +12,13 @@ custom_css: resume
 - GitHub: <a href="{{ site.data.social-media.github.href }}{{ site.data.social-media.github.id }}">{{ site.data.social-media.github.href }}{{ site.data.social-media.github.id }}</a>
 - LinkedIn: <a href="{{ site.data.social-media.linkedin.href }}{{ site.data.social-media.linkedin.id }}">{{ site.data.social-media.linkedin.href }}{{ site.data.social-media.linkedin.id }}</a>
 
-## Resumé.
+## Résumé.
 <li class="inline-block">
   <a
     target="_blank"
     class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2"
     href="/pdf/Sebastian_Duque_CV_eng.pdf"
-    >Resume</a
+    >PDF version.</a
   >
 </li>
 <!-- Lorem ipsum dolor sit amet.
