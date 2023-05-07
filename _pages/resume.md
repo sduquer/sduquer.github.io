@@ -12,6 +12,10 @@ custom_css: resume
 - GitHub: <a href="{{ site.data.social-media.github.href }}{{ site.data.social-media.github.id }}">{{ site.data.social-media.github.href }}{{ site.data.social-media.github.id }}</a>
 - LinkedIn: <a href="{{ site.data.social-media.linkedin.href }}{{ site.data.social-media.linkedin.id }}">{{ site.data.social-media.linkedin.href }}{{ site.data.social-media.linkedin.id }}</a>
 
+## Objective
+Lorem ipsum dolor sit amet.
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
 <!---
 ## Objective
 I'm seeking a career change to **software development** via an **entry-level or associate**-level position utilizing my demonstrated logical, analytical, and communication skills developed through over 15 years of experience in the fields of science, technology, and education.
