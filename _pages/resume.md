@@ -18,8 +18,7 @@ custom_css: resume
     target="_blank"
     class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2"
     href="/pdf/Sebastian_Duque_CV_eng.pdf"
-    >PDF version.</a
-  >
+    >PDF version.</a>
 </li>
 <!-- Lorem ipsum dolor sit amet.
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } -->
@@ -182,4 +181,4 @@ Led a team of fellow students in developing a syllabus- and course-management ap
 [wiki-L6s]: https://en.wikipedia.org/wiki/Lean_Six_Sigma
 
 
---->`
+--->
