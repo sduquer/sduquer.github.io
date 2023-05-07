@@ -1,4 +1,4 @@
-# jreel.github.io
+# sduquer.github.io
 
 These are the files of my personal website at [sduquer.github.io](https://sduquer.github.io).
 
