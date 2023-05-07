@@ -19,12 +19,15 @@ custom_css: resume
     class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2"
     href="/pdf/Sebastian_Duque_CV_eng.pdf"
     >English version.</a>
+</li>
+<li class="inline-block">
     <a
     target="_blank"
     class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2"
     href="/pdf/Sebastian_Duque_CV.pdf"
     >Spanish version.</a>
 </li>
+
 <!-- Lorem ipsum dolor sit amet.
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } -->
 
