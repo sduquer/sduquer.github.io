@@ -27,7 +27,7 @@ The specific objectives of the project are:
 4. The flight controller must allow a standard communication protocol so that a companion computer can talk with it. The goal is to be able to send it commands in order to guide the vehicle depending on the function it is performing.
 
 ## What is a Quadcopter?
-As it is defined by [OscarLiang][]:
+As defined by [OscarLiang][]:
 >Quadcopter is an unmanned aerial vehicle (UAV) or drone with four rotors, each with a motor and propeller. A quadcopter can be manually controlled or can be autonomous. It's also called quadrotor helicopter or quadrotor. It belongs to a more general class of aerial vehicles called multicopter or multirotor.
 
 Another good site is [Devopedia][]. Here you can find information about several Information Technology Topics.
