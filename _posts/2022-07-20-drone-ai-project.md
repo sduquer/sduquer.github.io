@@ -5,18 +5,12 @@ title: Quadcopter drone for AI applications.
 This  an on-going project that can be splitted into several little projects and tasks. Through this article, i want to explain the main parts of this development, in order to show some interesting and useful solutions for various challenges that have arisen during the development to date.
 {% include youtube.html id='iUnWrxdl2SY' %}
 The above video shows one of the first flights of the drone.
-
 <!--more-->
-
-
 * Do not remove this line (it will not be displayed)
 {:toc}
 <!-- ##  Let's see it in action! -->
 <!-- {% include youtube.html id='iUnWrxdl2SY' %} -->
-
 <br />
-
-
 ##  Goals of the project
 
 The main goal of this project, which I started during the pandemic of covid 19 about 2020, is to build an stable aerial vehicle to be used as a platform to develop and test applications of Artificial Intelligence, based on a real-time video capturing system and required hardware installed on the vehicle.
