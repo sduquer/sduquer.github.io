@@ -33,7 +33,8 @@ Another good site is [Devopedia][]. Here you can find information about several 
  
 ## Hardware
 This drone was built by using the following parts:
-1. [Frame + Power Distribution Board (PDB).](#frame--power-distribution-board-pdb)
+<!-- 1. [Frame + Power Distribution Board (PDB).](#frame--power-distribution-board-pdb) -->
+1. Frame + Power Distribution Board (PDB).
 2. Motors.
 3. ESC (Electronic Speed Controller).
 4. Propeller.
@@ -43,4 +44,4 @@ This drone was built by using the following parts:
 8. OSD (On Screen Display).
 9. Companion Computer.
 
-### Frame + Power Distribution Board (PDB)
+<!-- ### Frame + Power Distribution Board (PDB) -->
