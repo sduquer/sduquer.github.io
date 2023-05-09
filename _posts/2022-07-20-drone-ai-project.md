@@ -32,7 +32,6 @@ As defined by [OscarLiang][]:
 
 Another good site is [Devopedia][]. Here you can find information about several Information Technology Topics.
 
-
 [OscarLiang]: https://oscarliang.com/what-is-quadcopter/#:~:text=A%20quadcopter%20is%20a%20type,as%20surveillance%20and%20aerial%20photography.
 [Devopedia]: https://devopedia.org/quadcopter
 
