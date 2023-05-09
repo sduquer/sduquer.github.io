@@ -11,9 +11,8 @@ First flights!
 
 * Do not remove this line (it will not be displayed)
 {:toc}
-##  Let's see it in action!
-{% include youtube.html id='iUnWrxdl2SY' %}
-
+<!-- ##  Let's see it in action! -->
+<!-- {% include youtube.html id='iUnWrxdl2SY' %} -->
 
 <br />
 The above video shows one of the first flights of the drone.
