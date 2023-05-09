@@ -7,7 +7,7 @@ permalink: /about/
 This is the personal website of Sebastián Duque hosted at [sduquer.github.io](https://sduquer.github.io).
 
 This website, just like life, is under construction permanently. It is not written in my mother tongue 
-so it could have some grammar mistakes, however i like the challenges.
+so it could have some grammar mistakes, however i like the challenges and in this way i can practice and think in English.
 
 The idea is documenting my projects and organize my ideas (by writing down them), and in the way of trying to explain them, i can understand better and new ideas come up. 
 
