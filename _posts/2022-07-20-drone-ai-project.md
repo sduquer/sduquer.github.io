@@ -6,8 +6,6 @@ This  an on-going project that can be splitted into several little projects and 
 {% include youtube.html id='iUnWrxdl2SY' %}{space}{space}
 
 <!--more-->
-
-
 * Do not remove this line (it will not be displayed)
 {:toc}
 ##  Let's see it in action!
