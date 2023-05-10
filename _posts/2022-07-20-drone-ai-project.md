@@ -8,7 +8,7 @@ Videos:
 {% include youtube.html id='iUnWrxdl2SY' %}
 {% include youtube.html id='Rw3xW2Eij08' %}
 
-The above video shows one of the first flights of the drone.
+Flying...
 <!--more-->
 * Do not remove this line (it will not be displayed)
 {:toc}
