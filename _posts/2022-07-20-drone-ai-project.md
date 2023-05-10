@@ -44,9 +44,11 @@ This drone was built by using the following parts:
 4. Propeller.
 5. Battery.
 6. Flight Controller.
-7. FPV googles (First Person View).
-8. OSD (On Screen Display).
-9. Video TX.
-10. Companion Computer.
+7. FPV goggles (First Person View) + OSD (On Screen Display) + Video TX.
+8. Companion Computer.
+
+## Challenges
+One the main challenges was to build the FPV system, that is used to display telemetry information on the goggles, such us: position, battery voltage, GPS, altitude, etc. It is composed by three main parts:
+- 
 
 <!-- ### Frame + Power Distribution Board (PDB) -->
