@@ -46,6 +46,7 @@ This drone was built by using the following parts:
 6. Flight Controller.
 7. FPV googles (First Person View).
 8. OSD (On Screen Display).
-9. Companion Computer.
+9. Video TX.
+10. Companion Computer.
 
 <!-- ### Frame + Power Distribution Board (PDB) -->
