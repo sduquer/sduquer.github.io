@@ -2,7 +2,7 @@
 layout: post
 title: Jekyll Tips, Tricks, and Best Practices
 ---
-Does what it says on the tin: an updated-as-I-discover-them collection of tips, tricks, etc. for Jekyll websites
+Does what it says on the tin: an updated-as-I-discover-them collection of tips, tricks, etc. for Jekyll websites.
 <!--more-->
 
 ## Jekyll: what's that again?
