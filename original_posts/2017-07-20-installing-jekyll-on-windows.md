@@ -3,6 +3,7 @@ layout: post
 title: Installing Jekyll on Windows
 ---
 In which the intrepid developer describes the journey to get up-and-running with Jekyll development on Windows 10.
+
 <!--more-->
 
 *Last updated: July 28, 2017*
