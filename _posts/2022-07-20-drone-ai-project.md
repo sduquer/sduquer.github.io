@@ -53,7 +53,7 @@ This drone was built by using the following parts:
 ## Challenges
 1. FPV system
 One the main challenges was to build the FPV system, that is used to display telemetry information on the goggles, such us: position, battery voltage, GPS, altitude, etc. It is composed by three parts, mainly:
-- OSD: it overlays flight information onto the FPV video feed that is displayed on the FPV goggles. The information is sent from the Flight controller to the OSD, by using serial communication. The OSD modifies the video image, by adding the telemetry data, and send sent it through the Video TX to the FPV goggles. A micro minimOSD was used.
+- OSD: it overlays flight information onto the FPV video feed that is displayed on the FPV goggles. The information is sent from the Flight controller to the OSD, by using serial communication. The OSD modifies the video image, by adding the telemetry data, and sends it through the Video TX to the FPV goggles. A micro minimOSD was used.
 - Video TX: It sends the analog video stream received from the OSD by using an specific band and channel. This signal is received by the FPV goggles and displayed on the screen.
 - FPV goggles: It allows the pilot to see the video captured by the camera installed on the drone. 
 
