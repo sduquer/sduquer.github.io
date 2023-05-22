@@ -30,7 +30,8 @@
    {% include social-media-links.html %}
 
 
-    <p class="small">&copy; {{ site.time | date: '%Y' }}
+    <!-- <p class="small">&copy; {{ site.time | date: '%Y' }} -->
+      <p class="small">&copy; {{ post.last_modified_at | date: '%Y-%m-%d' }}
       {% assign site_name = site.name | default: site.title | append: '.' %}{% include email.html inner=site_name %}  All rights reserved.</p>
   </div>
 </div>
