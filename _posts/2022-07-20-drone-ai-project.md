@@ -12,6 +12,9 @@ FPV system with analog camera:
 {% include youtube.html id='iUnWrxdl2SY' %}
 
 Flying...
+
+Última modiciación: {% last_modified_at %}.
+
 <!--more-->
 * Do not remove this line (it will not be displayed)
 {:toc}
