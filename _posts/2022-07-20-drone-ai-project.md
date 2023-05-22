@@ -13,6 +13,8 @@ FPV system with analog camera:
 
 Flying...
 
+{% last_modified_at %}
+
 <!--more-->
 * Do not remove this line (it will not be displayed)
 {:toc}
