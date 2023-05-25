@@ -5,7 +5,7 @@ title: Quadcopter drone for AI applications.
 This  an on-going project that can be splitted into several little projects and tasks. Through this article, i want to explain the main parts of this development, in order to show some interesting and useful solutions for various challenges that have arisen during the development to date.
 
 FPV system with analog camera:
-{% include youtube.html id='yZISwWvt6Tw' %}
+{% include youtube.html id='GN_3PN3ziP0%}
 
 <br/>
 4K video camera:
