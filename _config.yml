@@ -126,6 +126,7 @@ include:
   - _articles
   - _data
   - js
+  - assets
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
