@@ -34,6 +34,9 @@ The specific objectives of the project are:
 
 ![This is how I look like today :)](/assets/img/drone_AI/imagen_drone_vista_frontal.jpeg)
 
+![This is how I look like today :)](/assets/img/drone_AI/imagen_drone_vista_frontal_camara.jpeg)
+
+
 ## What is a Quadcopter?
 As defined by [OscarLiang][]:
 >Quadcopter is an unmanned aerial vehicle (UAV) or drone with four rotors, each with a motor and propeller. A quadcopter can be manually controlled or can be autonomous. It's also called quadrotor helicopter or quadrotor. It belongs to a more general class of aerial vehicles called multicopter or multirotor.
