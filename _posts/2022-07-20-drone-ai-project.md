@@ -56,7 +56,7 @@ This drone was built by using the following parts:
 7. FPV goggles (First Person View) + OSD (On Screen Display) + Video TX.
 8. Companion Computer.
 
-![My main components](/assets/img/drone_AI/imagen_componentes_fpv.png)
+![My main components](/assets/img/drone_AI/imagen_componentes_fpv.jpeg)
 
 
 ## Challenges
