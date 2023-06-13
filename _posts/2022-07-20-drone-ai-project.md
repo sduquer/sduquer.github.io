@@ -53,11 +53,12 @@ This drone was built by using the following parts:
 1. Frame + Power Distribution Board (PDB).
 2. Motors.
 3. ESC (Electronic Speed Controller).
-4. Propeller.
+4. Propellers.
 5. Battery.
 6. Flight Controller.
 7. FPV goggles (First Person View) + OSD (On Screen Display) + Video TX.
 8. Companion Computer.
+9. 3D printed parts.
 
 ![My main components](/assets/img/drone_AI/imagen_componentes_fpv.jpeg)
 
