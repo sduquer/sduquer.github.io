@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Quadcopter drone for AI applications.
+permalink: /drone-ai-project/
 ---
 This  an on-going project that can be splitted into several little projects and tasks. Through this article, i want to explain the main parts of this development, in order to show some interesting and useful solutions for various challenges that have arisen during the development to date.
 
@@ -55,7 +56,7 @@ This drone was built by using the following parts:
 7. FPV goggles (First Person View) + OSD (On Screen Display) + Video TX.
 8. Companion Computer.
 
-![My main components](/assets/img/drone_AI/imagen_componentes_fpv.jpeg)
+![My main components](/assets/img/drone_AI/imagen_componentes_fpv.png)
 
 
 ## Challenges
