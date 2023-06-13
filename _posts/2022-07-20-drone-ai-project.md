@@ -31,6 +31,8 @@ The specific objectives of the project are:
 3. The design of the vehicle must allow the assembly of different devices and peripherals.
 4. The flight controller must allow a standard communication protocol, so that a companion computer can talk with it. The goal is to be able to send it commands in order to guide the vehicle depending on the function it is performing.
 
+![This is how I look like today :)](/assets/img/drone_AI/imagen_drone_vista_frontal.jpeg)
+
 ## What is a Quadcopter?
 As defined by [OscarLiang][]:
 >Quadcopter is an unmanned aerial vehicle (UAV) or drone with four rotors, each with a motor and propeller. A quadcopter can be manually controlled or can be autonomous. It's also called quadrotor helicopter or quadrotor. It belongs to a more general class of aerial vehicles called multicopter or multirotor.
@@ -52,6 +54,9 @@ This drone was built by using the following parts:
 6. Flight Controller.
 7. FPV goggles (First Person View) + OSD (On Screen Display) + Video TX.
 8. Companion Computer.
+
+![My main components](/assets/img/drone_AI/imagen_componentes_fpv.jpeg)
+
 
 ## Challenges
 1. FPV system
