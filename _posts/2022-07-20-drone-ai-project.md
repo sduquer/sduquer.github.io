@@ -9,9 +9,6 @@ FPV system with analog camera:
 {% include youtube.html id='GN_3PN3ziP0' %}
 
 <br/>
-4K video camera:
-{% include youtube.html id='iUnWrxdl2SY' %}
-
 Flying...
 
 <!-- Última actualización: {{ page.last_modified_at }} -->
@@ -25,6 +22,9 @@ Flying...
 ##  Goals of the project
 
 The main goal of this project, which I started during the pandemic of covid 19 about 2020, is to build an stable aerial vehicle to be used as a platform to develop and test applications of Artificial Intelligence, based on a real-time video capturing system and required hardware installed on the vehicle.
+
+4K video camera:
+{% include youtube.html id='iUnWrxdl2SY' %}
 
 The specific objectives of the project are:
 1. Building a structure capable of rising and being remotely controlled so that it moves in a specific direction / height.
